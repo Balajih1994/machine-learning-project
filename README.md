@@ -13,3 +13,14 @@ Required accounts
 4. pycharm or vs code
 
 5. dockers
+
+
+conda create -p venv python==3.7 -y
+
+
+
+conda activate venv/
+
+OR
+
+conda activate venv
